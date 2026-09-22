@@ -25,6 +25,6 @@ Key Focus: Robotic systems for NDT and high-precision aeronautical assembly.
 WorldSkills UK (2025): National Participant in Metal Fabrication.
 Experience: Technical Assistant @ Santech System Solutions (Prototype Robotics Builds).
 📫 Connect with Me
-LinkedIn: linkedin.com
+LinkedIn:in/daniel-a-3668892b0
 Email: danielboateng.eng@gmail.com
 Location: Birmingham, UK
