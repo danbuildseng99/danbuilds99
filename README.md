@@ -40,7 +40,8 @@ Experience: Technical Assistant @ Santech System Solutions (Prototype Robotics B
 
 📫 Connect with Me
 
-LinkedIn: in/daniel-a-3668892b0
+LinkedIn: Daniel Antwi-Boateng 
+in/daniel-a-3668892b0
 
 Email: danielboateng.eng@gmail.com
 
