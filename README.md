@@ -13,7 +13,6 @@ Dual Competency: "Shop-floor" CNC/Fabrication expertise combined with C++/Python
 
 
 🛠️ Technical Toolkit
-
 Domain	Tools & Technologies
 
 Programming	Python (Automation), C++ (Arduino/Embedded), MATLAB
@@ -41,7 +40,7 @@ Experience: Technical Assistant @ Santech System Solutions (Prototype Robotics B
 
 📫 Connect with Me
 
-LinkedIn:in/daniel-a-3668892b0
+LinkedIn: in/daniel-a-3668892b0
 
 Email: danielboateng.eng@gmail.com
 
