@@ -34,25 +34,24 @@ I am a Mechatronics Engineering student with a unique **"dual-competency" backgr
 
 ---
 
-### 🔬 Top Projects
+### 🔬 Core Technical Projects
 
-#### 🦾 Mechatronic Prototype (College)
-*   **What:** Sensor-driven mechanical system.
-*   **Tech:** Arduino, C++, Custom-milled hardware.
-*   **Result:** Integrated intelligent control with precision-manufactured parts.
+*   **[smart-environmental-pipeline](https://github.com/danbuildseng99/smart-environmental-pipeline):** Cloud-based mechatronic data pipeline integrating a virtual Arduino core with a Python diagnostic analytics engine.
+*   **[predictive-asset-condition-monitor](https://github.com/danbuildseng99/predictive-asset-condition-monitor):** Industry 4.0 application that integrates a virtual Arduino core with a Python anomaly detection engine.
+*   **[esp32-wireless-iot-gateway](https://github.com/danbuildseng99/esp32-wireless-iot-gateway):** Embedded systems application demonstrating wireless connectivity and sensor data routing.
+*   **[smart-renewable-microgrid-controller](https://github.com/danbuildseng99/smart-renewable-microgrid-controller):** Control systems project simulating and managing renewable energy inputs.
+*   **[smart-home-security-alarm](https://github.com/danbuildseng99/smart-home-security-alarm):** Entry-level embedded systems application demonstrating structural hardware routing and sensor logic processing.
 
-#### ✈️ Industry 4.0 Automation Analysis (Virtual Internship)
-*   **Context:** Virtual Internship with Rolls-Royce.
-*   **Key Focus:** Robotic systems for NDT (Non-Destructive Testing) and high-precision aeronautical assembly.
+#### 🏆 Highlights & Experience
+*   **🦾 Mechatronic Prototype (College):** Sensor-driven mechanical system integrating Arduino, C++, and custom-milled hardware for intelligent control.
+*   **✈️ Industry 4.0 Automation Analysis (Rolls-Royce Virtual Internship):** Focused on robotic systems for NDT (Non-Destructive Testing) and high-precision aeronautical assembly.
+*   **🥇 WorldSkills UK (2025):** National Participant in Metal Fabrication.
+*   **🔧 Technical Assistant @ Santech System Solutions:** Experience in prototype robotics builds.
 
-
-### 🏆 Accolades & Experience
-
-*   **WorldSkills UK (2025):** National Participant in Metal Fabrication.
-*   **Technical Assistant @ Santech System Solutions:** Experience in prototype robotics builds.
+---
 
 ### 📂 Practical Coursework & Assignments
 
-*   **[Digital Electronics Practicals](LINK_TO_REPO):** Transistor circuits, timers, and logic gate designs.
-*   **[Mechanical Machining Projects](LINK_TO_REPO):** Precision components manufactured on lathes and mills (CAD & CAM).
-*   **[Engineering Maths & Business](LINK_TO_REPO):** Numerical methods reports and Excel financial models.
+*   **[BTEC Unit 19: Electronics](https://github.com/danbuildseng99/btec-unit19-electronics):** Academic assignment files, software simulations, and hardware testing portfolios for BTEC Level 3 Unit 19.
+*   **[BTEC Unit 2 & 41: Machining](https://github.com/danbuildseng99/btec-unit2-unit41-machining):** Precision mechanical design, CAD/CAM coursework, and practical machining components.
+*   **[Engineering Maths & Business](https://github.com/danbuildseng99/engineering-maths-and-business):** A comprehensive portfolio demonstrating numerical methods (Python), Activity-Based Costing (ABC), ISO 9001 Quality Management, and Value Engineering.
